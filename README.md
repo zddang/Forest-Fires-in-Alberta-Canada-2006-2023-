@@ -11,4 +11,4 @@ Wildland fire is one of the most significant natural disasters in Alberta, Canad
 **Source**: Forestry and Parks, Alberta \
 https://open.alberta.ca/opendata/wildfire-data \
 **Size**: 25,322 records and 50 features\
-**Data Format**: Excel file\
+**Data Format**: Excel file
