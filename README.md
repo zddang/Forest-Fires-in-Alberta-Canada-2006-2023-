@@ -6,9 +6,9 @@ Wildland fire is one of the most significant natural disasters in Alberta, Canad
 
 ## Dataset Description
 
-Archival Research: Use historical wildfire data from publicly available sources.
-Dataset Description: Dataset including information on wildfires in the province of Alberta from 2006 to 2023, inclusive. Information tracked for each fire includes cause, size, location (latitude and longitude, legal land description, and forest area), time and duration, weather conditions, staffing and physical resources used to suppress the fire, and area burned.
-Source: Forestry and Parks, Alberta 
-https://open.alberta.ca/opendata/wildfire-data 
-Size: 25,322 records and 50 features
-Data Format: Excel file
+**Archival Research**: Use historical wildfire data from publicly available sources.\
+**Dataset Description**: Dataset including information on wildfires in the province of Alberta from 2006 to 2023, inclusive. Information tracked for each fire includes cause, size, location (latitude and longitude, legal land description, and forest area), time and duration, weather conditions, staffing and physical resources used to suppress the fire, and area burned.\
+**Source**: Forestry and Parks, Alberta \
+https://open.alberta.ca/opendata/wildfire-data \
+**Size**: 25,322 records and 50 features\
+**Data Format**: Excel file\
