@@ -1,2 +1,5 @@
 # Forest-Fires-in-Alberta-Canada-2006-2023-
 Forest Fires in Alberta, Canada (2006–2023): Impacts, Analysis, and Management
+
+## Abstract
+Wildland fire is one of the most significant natural disasters in Alberta, Canada, with far-reaching environmental, economic, and social impacts. In 2024, a third of the popular tourist town of Jasper, Alberta, was destroyed by wildfire. The occurrence of wildland fires has increased, presenting challenges to ecosystems, communities, and economic. This project aims to analyze the factors that influence the size and behavior of wildland fires in Alberta, including weather conditions, fuel loads, and land management practices. By examining wildland fire data from 2006 to 2023, this study provides insights into the nature, frequency, and severity of these events, uncovering challenges and opportunities to mitigate their impacts. Understanding these factors is crucial for developing effective policies and strategies to reduce the negative effects of wildland fires on the environment, economy, and society.
